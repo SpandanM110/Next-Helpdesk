@@ -1,0 +1,37 @@
+{
+  "name": "json-server",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "10.4.16",
+    "eslint": "8.52.0",
+    "eslint-config-next": "14.0.0",
+    "next": "14.0.0",
+    "postcss": "8.4.31",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.5"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamshaunjp/nextjs-masterclass.git"
+  },
+  "keywords": [
+    "_data/db.json"
+  ],
+  "author": "iamshaunjp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamshaunjp/nextjs-masterclass/issues"
+  },
+  "homepage": "https://github.com/iamshaunjp/nextjs-masterclass#readme"
+}
